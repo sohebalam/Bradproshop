@@ -5,7 +5,6 @@ import orderRoutes from "./routes/orderRoutes.js"
 import uploadRoutes from "./routes/uploadRoutes.js"
 import connectDB from "./db.js"
 
-import cors from "cors"
 import path from "path"
 
 const __dirname = path.resolve()
